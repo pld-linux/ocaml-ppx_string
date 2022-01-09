@@ -46,7 +46,7 @@ używających biblioteki ppx_string.
 
 %package devel
 Summary:	A ppx extension for string interpolation - development part
-Summary(pl.UTF-8):	Rozszerzenie ppx do interpolacji łańcuchów znaków - cześć programistyczna
+Summary(pl.UTF-8):	Rozszerzenie ppx do interpolacji łańcuchów znaków - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
